@@ -12,10 +12,10 @@ This is a great opportunity to practice templates, polymorphism, overload and fr
 
 You could simply include the "MatrixLib.h" to use this library.
 
-'''bash
+```bash
 g++ test.cpp MatrixLib.h -o test -std=c++11 -lthread
 test
-'''
+```
 
 ## Reference
 
